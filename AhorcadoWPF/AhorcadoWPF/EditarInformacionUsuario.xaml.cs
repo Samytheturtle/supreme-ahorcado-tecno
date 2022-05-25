@@ -10,23 +10,19 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace AhorcadoWPF
 {
     /// <summary>
-    /// Lógica de interacción para PerfilPrincipal.xaml
+    /// Lógica de interacción para EditarInformacionUsuario.xaml
     /// </summary>
-    public partial class PerfilPrincipal : Window
+    public partial class EditarInformacionUsuario : Page
     {
-        public PerfilPrincipal()
+        public EditarInformacionUsuario()
         {
             InitializeComponent();
-        }
-
-        private void DataGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
-
         }
     }
 }
