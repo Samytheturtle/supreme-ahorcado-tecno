@@ -1,5 +1,5 @@
 ﻿AhorcadoWPF
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\ThinkPad\Source\Repos\Samytheturtle\supreme-ahorcado-tecno\AhorcadoWPF\AhorcadoWPF\App.xaml
 4-1245024320
 
-8-73749499
+61414877696
 194-1951243044
 InicioSesion.xaml;ListaPartidas.xaml;PerfilPrincipal.xaml;RegistroUsuario.xaml;
 
-False
+True
 
