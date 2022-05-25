@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\samyt\source\repos\Samytheturtle\supreme-ahorcado-tecno\AhorcadoWPF\AhorcadoWPF\App.xaml
-7719334312
+81574157087
 
-11-1320559234
+12-1890257056
 1942030480316
-AhorcadoRetador.xaml;EditarInformacionUsuario.xaml;InicioSesion.xaml;ListaPartidas.xaml;NuevaPartida.xaml;PerfilPrincipal.xaml;RegistroUsuario.xaml;
+AhorcadoJugador.xaml;AhorcadoRetador.xaml;EditarInformacionUsuario.xaml;InicioSesion.xaml;ListaPartidas.xaml;NuevaPartida.xaml;PerfilPrincipal.xaml;RegistroUsuario.xaml;
 
-True
+False
 

@@ -10,11 +10,11 @@ none
 false
 TRACE;RELEASE;NET;NET6_0;NETCOREAPP
 D:\Documents\PROYECTOS_TCS\supreme-ahorcado-tecno\AhorcadoWPF\AhorcadoWPF\App.xaml
-7719334312
+81574157087
 
-9168067961
+10-401629861
 194-1951243044
-AhorcadoRetador.xaml;EditarInformacionUsuario.xaml;InicioSesion.xaml;ListaPartidas.xaml;NuevaPartida.xaml;PerfilPrincipal.xaml;RegistroUsuario.xaml;
+AhorcadoJugador.xaml;AhorcadoRetador.xaml;EditarInformacionUsuario.xaml;InicioSesion.xaml;ListaPartidas.xaml;NuevaPartida.xaml;PerfilPrincipal.xaml;RegistroUsuario.xaml;
 
 True
 
