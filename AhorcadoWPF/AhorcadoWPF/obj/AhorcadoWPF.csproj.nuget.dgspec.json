@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samyt\\source\\repos\\Samytheturtle\\supreme-ahorcado-tecno\\AhorcadoWPF\\AhorcadoWPF\\AhorcadoWPF.csproj": {}
+    "D:\\Documents\\PROYECTOS_TCS\\supreme-ahorcado-tecno\\AhorcadoWPF\\AhorcadoWPF\\AhorcadoWPF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samyt\\source\\repos\\Samytheturtle\\supreme-ahorcado-tecno\\AhorcadoWPF\\AhorcadoWPF\\AhorcadoWPF.csproj": {
+    "D:\\Documents\\PROYECTOS_TCS\\supreme-ahorcado-tecno\\AhorcadoWPF\\AhorcadoWPF\\AhorcadoWPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samyt\\source\\repos\\Samytheturtle\\supreme-ahorcado-tecno\\AhorcadoWPF\\AhorcadoWPF\\AhorcadoWPF.csproj",
+        "projectUniqueName": "D:\\Documents\\PROYECTOS_TCS\\supreme-ahorcado-tecno\\AhorcadoWPF\\AhorcadoWPF\\AhorcadoWPF.csproj",
         "projectName": "AhorcadoWPF",
-        "projectPath": "C:\\Users\\samyt\\source\\repos\\Samytheturtle\\supreme-ahorcado-tecno\\AhorcadoWPF\\AhorcadoWPF\\AhorcadoWPF.csproj",
-        "packagesPath": "C:\\Users\\samyt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samyt\\source\\repos\\Samytheturtle\\supreme-ahorcado-tecno\\AhorcadoWPF\\AhorcadoWPF\\obj\\",
+        "projectPath": "D:\\Documents\\PROYECTOS_TCS\\supreme-ahorcado-tecno\\AhorcadoWPF\\AhorcadoWPF\\AhorcadoWPF.csproj",
+        "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\PROYECTOS_TCS\\supreme-ahorcado-tecno\\AhorcadoWPF\\AhorcadoWPF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\samyt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ThinkPad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
