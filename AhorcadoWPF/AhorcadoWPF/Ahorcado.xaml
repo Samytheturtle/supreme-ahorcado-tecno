@@ -5,16 +5,22 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AhorcadoWPF"
         mc:Ignorable="d"
-        Title="Ahorcado" Height="450" Width="800">
-    <Grid>
+        Title="Ahorcado" Height="604" Width="800">
+    <Grid Margin="0,0,0,-6">
         <Grid.Background>
-            <ImageBrush ImageSource="/Imagenes/FondoNuevaPartida.jpg"/>
+            <ImageBrush ImageSource="/Imagenes/FondoAhorcado.jpg"/>
         </Grid.Background>
         <Grid.RowDefinitions>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="90"/>
-            <RowDefinition Height="220"/>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="340"/>
+            <RowDefinition Height="80"/>
             <RowDefinition Height="80*"/>
         </Grid.RowDefinitions>
+        <Label Content="Ahorcado" FontSize="25" FontStyle="Oblique" FontWeight="Bold" FontStretch="UltraCondensed" HorizontalAlignment="Left" Margin="23,0,0,0" VerticalAlignment="Center"/>
+        <Button Content="Salir" HorizontalAlignment="Left" Margin="23,0,0,0" Grid.Row="3" VerticalAlignment="Center" Height="32" Width="106"/>
+        <Button Content="Rendirse" HorizontalAlignment="Left" Margin="662,0,0,0" Grid.Row="3" VerticalAlignment="Center" Height="32" Width="106"/>
+        <Label Content="Sheriff (Retador):" FontSize="18" HorizontalAlignment="Left" Margin="23,21,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+
+
     </Grid>
 </Window>

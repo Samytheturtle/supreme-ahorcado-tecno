@@ -7,7 +7,13 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Ahorcado.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="ListaPartidas.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="NuevaPartida.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="RegistroUsuario.xaml.cs">
@@ -15,10 +21,16 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="Ahorcado.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="InicioSesion.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="ListaPartidas.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="NuevaPartida.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="RegistroUsuario.xaml">
