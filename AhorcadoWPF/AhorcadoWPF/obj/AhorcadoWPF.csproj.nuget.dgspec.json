@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samyt\\Source\\Repos\\Samytheturtle\\supreme-ahorcado-tecno\\AhorcadoWPF\\AhorcadoWPF\\AhorcadoWPF.csproj": {}
+    "C:\\Users\\samyt\\source\\repos\\Samytheturtle\\supreme-ahorcado-tecno\\AhorcadoWPF\\AhorcadoWPF\\AhorcadoWPF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samyt\\Source\\Repos\\Samytheturtle\\supreme-ahorcado-tecno\\AhorcadoWPF\\AhorcadoWPF\\AhorcadoWPF.csproj": {
+    "C:\\Users\\samyt\\source\\repos\\Samytheturtle\\supreme-ahorcado-tecno\\AhorcadoWPF\\AhorcadoWPF\\AhorcadoWPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samyt\\Source\\Repos\\Samytheturtle\\supreme-ahorcado-tecno\\AhorcadoWPF\\AhorcadoWPF\\AhorcadoWPF.csproj",
+        "projectUniqueName": "C:\\Users\\samyt\\source\\repos\\Samytheturtle\\supreme-ahorcado-tecno\\AhorcadoWPF\\AhorcadoWPF\\AhorcadoWPF.csproj",
         "projectName": "AhorcadoWPF",
-        "projectPath": "C:\\Users\\samyt\\Source\\Repos\\Samytheturtle\\supreme-ahorcado-tecno\\AhorcadoWPF\\AhorcadoWPF\\AhorcadoWPF.csproj",
+        "projectPath": "C:\\Users\\samyt\\source\\repos\\Samytheturtle\\supreme-ahorcado-tecno\\AhorcadoWPF\\AhorcadoWPF\\AhorcadoWPF.csproj",
         "packagesPath": "C:\\Users\\samyt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samyt\\Source\\Repos\\Samytheturtle\\supreme-ahorcado-tecno\\AhorcadoWPF\\AhorcadoWPF\\obj\\",
+        "outputPath": "C:\\Users\\samyt\\source\\repos\\Samytheturtle\\supreme-ahorcado-tecno\\AhorcadoWPF\\AhorcadoWPF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samyt\\AppData\\Roaming\\NuGet\\NuGet.Config",

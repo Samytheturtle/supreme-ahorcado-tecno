@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AhorcadoWPF",
+    "\\AhorcadoWPF\\AhorcadoWPF"
   ],
+  "SelectedNode": "\\AhorcadoWPF\\AhorcadoWPF\\ListaPartidas.xaml",
   "PreviewInSolutionExplorer": false
 }
