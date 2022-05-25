@@ -61,7 +61,7 @@ namespace AhorcadoWPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/AhorcadoWPF;V1.0.0.0;component/listapartidas.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/AhorcadoWPF;component/listapartidas.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ListaPartidas.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

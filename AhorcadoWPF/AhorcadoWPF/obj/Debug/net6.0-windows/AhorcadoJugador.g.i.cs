@@ -61,7 +61,7 @@ namespace AhorcadoWPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/AhorcadoWPF;V1.0.0.0;component/ahorcadojugador.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/AhorcadoWPF;component/ahorcadojugador.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\AhorcadoJugador.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
