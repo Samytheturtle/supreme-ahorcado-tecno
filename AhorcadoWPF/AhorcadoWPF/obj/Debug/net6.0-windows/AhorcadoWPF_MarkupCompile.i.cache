@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\ThinkPad\Source\Repos\Samytheturtle\supreme-ahorcado-tecno\AhorcadoWPF\AhorcadoWPF\App.xaml
-4-1245024320
+61627450970
 
-8-73749499
+10251394402
 194-1951243044
-InicioSesion.xaml;ListaPartidas.xaml;PerfilPrincipal.xaml;RegistroUsuario.xaml;
+Ahorcado.xaml;InicioSesion.xaml;ListaPartidas.xaml;NuevaPartida.xaml;PerfilPrincipal.xaml;RegistroUsuario.xaml;
 
-False
+True
 

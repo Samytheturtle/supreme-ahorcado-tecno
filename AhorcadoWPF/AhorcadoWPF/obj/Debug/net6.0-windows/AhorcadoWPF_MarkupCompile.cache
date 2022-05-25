@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\ThinkPad\Source\Repos\Samytheturtle\supreme-ahorcado-tecno\AhorcadoWPF\AhorcadoWPF\obj\Debug\net6.0-windows\
+C:\Users\ThinkPad\source\repos\Samytheturtle\supreme-ahorcado-tecno\AhorcadoWPF\AhorcadoWPF\obj\Debug\net6.0-windows\
 AhorcadoWPF
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\ThinkPad\Source\Repos\Samytheturtle\supreme-ahorcado-tecno\AhorcadoWPF\AhorcadoWPF\App.xaml
-4-1245024320
+C:\Users\ThinkPad\source\repos\Samytheturtle\supreme-ahorcado-tecno\AhorcadoWPF\AhorcadoWPF\App.xaml
+61627450970
 
-61414877696
+81740021597
 194-1951243044
-InicioSesion.xaml;ListaPartidas.xaml;PerfilPrincipal.xaml;RegistroUsuario.xaml;
+Ahorcado.xaml;InicioSesion.xaml;ListaPartidas.xaml;NuevaPartida.xaml;PerfilPrincipal.xaml;RegistroUsuario.xaml;
 
 True
 
