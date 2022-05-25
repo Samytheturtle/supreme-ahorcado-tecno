@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AhorcadoWPF"
         mc:Ignorable="d"
-        Title="AhorcadoRetador" Height="450" Width="800">
+        Title="Ahorcado" Height="450" Width="800">
     <Grid>
         <Grid.Background>
             <ImageBrush ImageSource="/Imagenes/FondoNuevaPartida.jpg"/>
