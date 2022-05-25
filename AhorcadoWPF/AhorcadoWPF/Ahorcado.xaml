@@ -17,7 +17,7 @@
             <RowDefinition Height="70*"/>
         </Grid.RowDefinitions>
         <Image Margin="212,2,94,15" Source="/Imagenes/Horca.png" Stretch="Fill" Grid.RowSpan="3" Grid.Row="1"/>
-        <Label Content="Ahorcado" FontSize="25" FontStyle="Oblique" FontWeight="Bold" FontStretch="UltraCondensed" HorizontalAlignment="Left" Margin="21,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ahorcado - Jugador" FontSize="25" FontStyle="Oblique" FontWeight="Bold" FontStretch="UltraCondensed" HorizontalAlignment="Left" Margin="21,10,0,0" VerticalAlignment="Top" Width="345"/>
         <Button Content="Salir" FontSize="18" HorizontalAlignment="Left" Margin="30,0,0,0" Grid.Row="3" VerticalAlignment="Center" Height="32" Width="106"/>
         <Button Content="Rendirse" FontSize="18" HorizontalAlignment="Left" Margin="662,0,0,0" Grid.Row="3" VerticalAlignment="Center" Height="32" Width="106"/>
         <Label Content="Sheriff (Retador):" FontSize="18" FontWeight="Bold" HorizontalAlignment="Left" Margin="23,53,0,0" VerticalAlignment="Top" Width="377"/>
