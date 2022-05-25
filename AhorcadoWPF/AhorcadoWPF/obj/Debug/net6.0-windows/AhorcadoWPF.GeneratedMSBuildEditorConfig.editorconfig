@@ -6,5 +6,10 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
+<<<<<<<< HEAD:AhorcadoWPF/AhorcadoWPF/obj/Debug/net6.0-windows/AhorcadoWPF_1b1y1bd5_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
 build_property.RootNamespace = AhorcadoWPF_1b1y1bd5_wpftmp
 build_property.ProjectDir = C:\Users\esteb\Source\Repos\Samytheturtle\supreme-ahorcado-tecno\AhorcadoWPF\AhorcadoWPF\
+========
+build_property.RootNamespace = AhorcadoWPF
+build_property.ProjectDir = D:\Documents\PROYECTOS_TCS\supreme-ahorcado-tecno\AhorcadoWPF\AhorcadoWPF\
+>>>>>>>> 70425b78ba5de5a63bfe7a04344026e9e9b982d3:AhorcadoWPF/AhorcadoWPF/obj/Debug/net6.0-windows/AhorcadoWPF.GeneratedMSBuildEditorConfig.editorconfig

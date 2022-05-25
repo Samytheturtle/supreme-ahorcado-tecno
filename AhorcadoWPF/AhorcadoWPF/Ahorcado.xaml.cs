@@ -23,10 +23,5 @@ namespace AhorcadoWPF
         {
             InitializeComponent();
         }
-
-        private void InitializeComponent()
-        {
-            throw new NotImplementedException();
-        }
     }
 }
