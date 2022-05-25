@@ -16,23 +16,24 @@
             <RowDefinition Height="80*"/>
             <RowDefinition Height="70*"/>
         </Grid.RowDefinitions>
+        <Image Margin="212,2,94,15" Source="/Imagenes/Horca.png" Stretch="Fill" Grid.RowSpan="3" Grid.Row="1"/>
         <Label Content="Ahorcado" FontSize="25" FontStyle="Oblique" FontWeight="Bold" FontStretch="UltraCondensed" HorizontalAlignment="Left" Margin="21,10,0,0" VerticalAlignment="Top"/>
-        <Button Content="Salir" HorizontalAlignment="Left" Margin="30,0,0,0" Grid.Row="3" VerticalAlignment="Center" Height="32" Width="106"/>
-        <Button Content="Rendirse" HorizontalAlignment="Left" Margin="662,0,0,0" Grid.Row="3" VerticalAlignment="Center" Height="32" Width="106"/>
+        <Button Content="Salir" FontSize="18" HorizontalAlignment="Left" Margin="30,0,0,0" Grid.Row="3" VerticalAlignment="Center" Height="32" Width="106"/>
+        <Button Content="Rendirse" FontSize="18" HorizontalAlignment="Left" Margin="662,0,0,0" Grid.Row="3" VerticalAlignment="Center" Height="32" Width="106"/>
         <Label Content="Sheriff (Retador):" FontSize="18" FontWeight="Bold" HorizontalAlignment="Left" Margin="23,53,0,0" VerticalAlignment="Top" Width="377"/>
-        <TextBox FontSize="32" HorizontalAlignment="Left" Margin="66,119,0,0" Grid.Row="1" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="66" TextAlignment="Center" FontWeight="Bold" FontFamily="Segoe UI Black" Height="51"/>
+        <TextBox FontSize="32" HorizontalAlignment="Left" Margin="77,84,0,0" Grid.Row="1" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="66" TextAlignment="Center" FontWeight="Bold" FontFamily="Segoe UI Black" Height="51"/>
 
-        <Label Content="Ingrese La Letra" FontSize="20" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" Height="37" Width="160" FontWeight="Bold" FontFamily="Segoe UI Historic" Margin="23,77,0,0"/>
-        <Button Content="Enviar ->" FontSize="18" HorizontalAlignment="Left" Height="35" Margin="50,175,0,0" Grid.Row="1" VerticalAlignment="Top" Width="97"/>
+        <Label Content="Ingrese La Letra" FontSize="20" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" Height="37" Width="160" FontWeight="Bold" FontFamily="Segoe UI Historic" Margin="34,42,0,0"/>
+        <Button Content="Enviar ->" FontSize="18" HorizontalAlignment="Left" Height="35" Margin="61,140,0,0" Grid.Row="1" VerticalAlignment="Top" Width="97"/>
 
         <Label Content="Palabra:" FontSize="25" FontWeight="Bold" HorizontalAlignment="Left" Margin="35,327,0,0" Grid.Row="1" VerticalAlignment="Top"/>
 
-        <Image Margin="217,70,202,0" Source="/Imagenes/Horca.png" Stretch="Fill" Grid.RowSpan="2"/>
-        <WrapPanel x:Name="wpOpciones" Grid.Row="2" Margin="35, 15"/>
 
-        <Label Content="Pista" FontSize="20" FontWeight="Bold" HorizontalAlignment="Left" Margin="598,15,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <WrapPanel x:Name="wpOpciones" Background="AntiqueWhite" Grid.Row="2" Margin="35, 15"/>
 
-        <TextBox FontSize="16" HorizontalAlignment="Left" Margin="598,52,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="192" Height="230" IsReadOnly="True"/>
+        <Label Content="Pista" FontSize="20" FontWeight="Bold" HorizontalAlignment="Left" Margin="644,25,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+
+        <TextBox FontSize="16" HorizontalAlignment="Left" Margin="576,67,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="192" Height="118" IsReadOnly="True"/>
         <Label Content="Dificultad:" FontSize="18" FontWeight="Bold" HorizontalAlignment="Left" Margin="500,53,0,0" VerticalAlignment="Top" Width="290"/>
 
     </Grid>
