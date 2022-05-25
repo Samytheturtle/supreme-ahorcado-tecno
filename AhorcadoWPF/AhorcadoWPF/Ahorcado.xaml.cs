@@ -17,11 +17,16 @@ namespace AhorcadoWPF
     /// <summary>
     /// Lógica de interacción para Ahorcado.xaml
     /// </summary>
-    public partial class Ahorcado : Window
+    public partial class AhorcadoRetador : Window
     {
-        public Ahorcado()
+        public AhorcadoRetador()
         {
             InitializeComponent();
+        }
+
+        private void InitializeComponent()
+        {
+            throw new NotImplementedException();
         }
     }
 }
