@@ -12,15 +12,20 @@
         </Grid.Background>
         <Grid.RowDefinitions>
             <RowDefinition Height="70"/>
-            <RowDefinition Height="340"/>
-            <RowDefinition Height="80"/>
+            <RowDefinition Height="370"/>
             <RowDefinition Height="80*"/>
+            <RowDefinition Height="70*"/>
         </Grid.RowDefinitions>
         <Label Content="Ahorcado" FontSize="25" FontStyle="Oblique" FontWeight="Bold" FontStretch="UltraCondensed" HorizontalAlignment="Left" Margin="23,0,0,0" VerticalAlignment="Center"/>
-        <Button Content="Salir" HorizontalAlignment="Left" Margin="23,0,0,0" Grid.Row="3" VerticalAlignment="Center" Height="32" Width="106"/>
+        <Button Content="Salir" HorizontalAlignment="Left" Margin="30,0,0,0" Grid.Row="3" VerticalAlignment="Center" Height="32" Width="106"/>
         <Button Content="Rendirse" HorizontalAlignment="Left" Margin="662,0,0,0" Grid.Row="3" VerticalAlignment="Center" Height="32" Width="106"/>
-        <Label Content="Sheriff (Retador):" FontSize="18" HorizontalAlignment="Left" Margin="23,21,0,0" Grid.Row="1" VerticalAlignment="Top"/>
-
+        <Label Content="Sheriff (Retador):" FontSize="18" HorizontalAlignment="Left" Margin="220,0,0,0" VerticalAlignment="Center" Width="324"/>
+        <TextBox FontSize="32" HorizontalAlignment="Left" Margin="70,119,0,0" Grid.Row="1" TextWrapping="Wrap" Text="J" VerticalAlignment="Top" Width="58" TextAlignment="Center" FontWeight="Bold" FontFamily="Segoe UI Black" Height="51"/>
+        <Label Content="Ingrese La Letra" FontSize="20" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" Height="37" Width="160" FontWeight="Bold" FontFamily="Segoe UI Historic" Margin="23,77,0,0"/>
+        <Button Content="Enviar ->" FontSize="18" HorizontalAlignment="Left" Height="35" Margin="50,175,0,0" Grid.Row="1" VerticalAlignment="Top" Width="97"/>
+        <Label Content="Palabra:" FontSize="25" FontWeight="Bold" HorizontalAlignment="Left" Margin="35,317,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Image Margin="220,15,207,0" Grid.Row="1" Source="/Imagenes/Horca.png" Stretch="Fill"/>
+        <WrapPanel x:Name="wpOpciones" Grid.Row="2" Margin="35, 15"/>
 
     </Grid>
 </Window>
