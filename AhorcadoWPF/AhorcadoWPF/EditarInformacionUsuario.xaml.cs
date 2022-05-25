@@ -18,7 +18,7 @@ namespace AhorcadoWPF
     /// <summary>
     /// Lógica de interacción para EditarInformacionUsuario.xaml
     /// </summary>
-    public partial class EditarInformacionUsuario : Window
+    public partial class EditarInformacionUsuario : Page
     {
         public EditarInformacionUsuario()
         {
