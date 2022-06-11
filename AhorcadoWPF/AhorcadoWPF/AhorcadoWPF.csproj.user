@@ -7,9 +7,6 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="AhorcadoJugador.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Update="EditarInformacionUsuario.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
