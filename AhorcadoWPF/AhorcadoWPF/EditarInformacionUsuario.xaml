@@ -10,7 +10,7 @@
 
     <Grid>
         <Grid.Background>
-            <ImageBrush ImageSource="/Imagenes/FondoEditarInformacionUsuario.jpg"/>
+            <ImageBrush x:Name="image" ImageSource="Imagenes/FondoEditarInformacionUsuario.jpg"/>
         </Grid.Background>
         <Label Content="Información Personal" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Foreground="#FFF9F6F6" FontWeight="Bold" FontSize="36" FontFamily="Bernard MT Condensed"/>
         <Label Content="Nombre :" HorizontalAlignment="Left" Margin="42,83,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FFEEF5F5" FontWeight="Bold" FontSize="18"/>
@@ -19,7 +19,7 @@
         <Label Content="Numero Telefonico :" HorizontalAlignment="Left" Margin="37,283,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FFF9F5F5" FontWeight="Bold" FontSize="18"/>
         <Label Content="Contraseña :" HorizontalAlignment="Left" Margin="457,146,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FFF9F5F5" FontWeight="Bold" FontSize="18"/>
         <Label Content="Confirmar Contraseña :" HorizontalAlignment="Left" Margin="516,234,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FFF9F5F5" FontWeight="Bold" FontSize="18"/>
-        <Button Content="Guardar Información" HorizontalAlignment="Left" Margin="639,378,0,0" VerticalAlignment="Top" Height="28" Width="131"/>
+        <Button Content="Guardar Información" HorizontalAlignment="Left" Margin="639,378,0,0" VerticalAlignment="Top" Height="28" Width="131" Click="ActualizarInfo"/>
         <Button Content="Cancelar" HorizontalAlignment="Left" Margin="42,364,0,0" VerticalAlignment="Top" Width="133" Height="28"/>
         <TextBox HorizontalAlignment="Left" Margin="245,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="183" Height="28"/>
         <TextBox HorizontalAlignment="Left" Margin="245,152,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="183" Height="28"/>

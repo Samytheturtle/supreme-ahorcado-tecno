@@ -18,11 +18,16 @@ namespace AhorcadoWPF
     /// <summary>
     /// Lógica de interacción para EditarInformacionUsuario.xaml
     /// </summary>
-    public partial class EditarInformacionUsuario : Page
+    public partial class EditarInformacionUsuario : Window
     {
         public EditarInformacionUsuario()
         {
             InitializeComponent();
+        }
+
+        private void ActualizarInfo(object sender, RoutedEventArgs e)
+        {
+            
         }
     }
 }
